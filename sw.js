@@ -29,15 +29,15 @@ workbox.precaching.precacheAndRoute([
     "revision": "4bf4dd0308de5fa88c03257d7c6f2231"
   },
   {
-    "url": "resource/css/reset.min.css",
+    "url": "resources/css/reset.min.css",
     "revision": "d3d1bfe449ddec8532207b99b2a1031e"
   },
   {
-    "url": "resource/css/style.css",
+    "url": "resources/css/style.css",
     "revision": "7b68291323275988da6dc66cda60ba2a"
   },
   {
-    "url": "resource/js/main.js",
+    "url": "resources/js/main.js",
     "revision": "27de6a0160da4c6f983c88720036069d"
   }
 ]);
